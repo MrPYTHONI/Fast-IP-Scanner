@@ -120,11 +120,7 @@ This project is licensed under the MIT License.
 
 Social Links:
 
-Telegram :-
-https://t.me/PYT_HON3
 
-Portfolio :-
-https://mrpython3.carrd.co/
 
 
 
@@ -143,3 +139,10 @@ Fast-IP-Scanner is intended for ethical and educational use only. Ensure you hav
 
 ---
 
+---
+
+Official Developer: MrPYTHON
+
+Telegram: https://t.me/PYT_HON3
+
+Portfolio: https://mrpython3.carrd.co/
